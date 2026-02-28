@@ -1,129 +1,60 @@
+# Harneet 🌙
+
+This is not a random webpage.
+
+It’s a small pause in the internet  
+made only for you.
+
 ---
-layout: default
+
+![us](https://photos.google.com/share/AF1QipMz0Fh3Oe8r_en7Hw0rQPS9BXZ34C6_BOpfKGvtbhB0tG6DuBMzezlOusmmB9VhmQ?key=TlZ6OE9PRjg5MVdzR1N0M1BkNnFUaDM1UzBnU2Jn)
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Hi Nooru.
 
-[Link to another page](./another-page.html).
+We went from talking every day  
+to not talking at all.
 
-There should be whitespace between paragraphs.
+And that feels strange.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Hi, I’m Kartikay 👋
+## I don’t want to restart everything.
 
-Welcome to my first website.
+I don’t want to go backwards.
 
-## 🚀 About Me
-I’m someone who is learning, building and experimenting with ideas.
-This site is my little corner of the internet.
+I just want…
 
-## 💪 What I’m doing right now
-- Going to the gym
-- Learning business & online income
-- Building cool stuff
+one normal conversation ☕
 
-## 🌐 Find me online
-Instagram: https://instagram.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourusername
+Like two people who once meant a lot to each other.
 
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<div align="center">
+  <iframe width="300" height="170"
+  src="https://drive.google.com/file/d/YOUR-GDRIVE-FILE-ID/preview"
+  allow="autoplay">
+  </iframe>
+</div>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Let go of your hollow ego
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+I know a tiny part of you  
+misses the normal version of us too…
 
-##### Header 5
+### let’s talk.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 🌸
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[Tap here when you feel like talking](https://wa.me/918448303655)
 
-### There's a horizontal rule below this.
+---
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+still rooting for your smile,  
+Kartikay
