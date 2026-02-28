@@ -17,6 +17,8 @@ made only for you 🤍
 
 ---
 
+<div align="center">
+
 ## Hi Nooru.
 
 We went from talking every day  
@@ -32,6 +34,8 @@ I just want…
 ### one normal conversation ☕
 
 Like two people who once meant a lot to each other.
+
+</div>
 
 ---
 
