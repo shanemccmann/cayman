@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #fff0f5;
+  background-color: #fff0f5 !important;
   color: #5a2a4d;
 }
 
@@ -18,32 +18,49 @@ a {
   color: #ff4d88;
 }
 
-/* 💖 FLOATING HEARTS 💖 */
-
-body::before {
-  content: "💖 💗 💕 💞 💓 💘 💝 💟";
-  position: fixed;
-  top: -10%;
-  left: 0;
-  width: 100%;
-  font-size: 24px;
-  animation: floatHearts 12s linear infinite;
-  opacity: 0.7;
-  pointer-events: none;
-}
-
-@keyframes floatHearts {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(120vh); }
-}
-/* 💗 FIX WHITE BACKGROUND */
-
-body {
-  background-color: #fff0f5 !important;
-  color: #5a2a4d;
-}
+/* 💗 REMOVE WHITE CONTENT BOX */
 
 .main-content {
   background-color: transparent !important;
   border-radius: 20px;
   padding: 2rem;
+}
+
+/* 💖 FLOATING HEARTS EVERYWHERE 💖 */
+
+body::before {
+  content: "💖 💗 💕 💞 💓 💘 💝 💟 💖 💗 💕 💞 💓 💘 💝 💟";
+  position: fixed;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-around;
+  animation: floatHearts 18s linear infinite;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+body::after {
+  content: "💗 💕 💞 💓 💘 💝 💟 💖 💗 💕 💞 💓 💘 💝 💟 💖";
+  position: fixed;
+  top: -120%;
+  left: 0;
+  width: 100%;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-evenly;
+  animation: floatHearts 22s linear infinite;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+@keyframes floatHearts {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(220vh);
+  }
+}2rem;
