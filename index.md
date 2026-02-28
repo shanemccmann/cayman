@@ -7,8 +7,9 @@ made only for you.
 
 ---
 
-![us](https://drive.google.com/file/d/1XDU_QoKNj8PDKS8sOZKvPg5QcrbKJr48/view?usp=drive_link)
-
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1GCVkMP0dbdpnc9zHOnpxdgi5xax60w67" width="300">
+</div>
 ---
 
 ## Hi Nooru.
