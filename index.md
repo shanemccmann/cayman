@@ -12,7 +12,7 @@ made only for you 🤍
 ---
 
 <div align="center">
-  <img src="harnu.png" width="300" style="border-radius:18px;">
+  <img src="68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d314743566b4d5030646264706e63397a484f6e7078646769357861783630773637.png" width="300" style="border-radius:18px;">
 </div>
 
 ---
@@ -63,7 +63,7 @@ misses the normal version of us too…
 
 ## 💌
 
-<a href="https://wa.me/91YOURNUMBER" target="_blank">
+<a href="https://wa.me/918448303655" target="_blank">
   <img src="https://img.shields.io/badge/Talk_to_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
