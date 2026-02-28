@@ -12,7 +12,6 @@
 body {
   background-color: #fff0f5 !important;
   color: #5a2a4d;
-  overflow-x: hidden;
 }
 
 a {
@@ -27,67 +26,41 @@ a {
   padding: 2rem;
 }
 
-/* 💖 FLOATING HEARTS LAYERS 💖 */
+/* 💖 FLOATING HEARTS EVERYWHERE 💖 */
 
-body::before,
+body::before {
+  content: "💖 💗 💕 💞 💓 💘 💝 💟 💖 💗 💕 💞 💓 💘 💝 💟";
+  position: fixed;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-around;
+  animation: floatHearts 18s linear infinite;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
 body::after {
+  content: "💗 💕 💞 💓 💘 💝 💟 💖 💗 💕 💞 💓 💘 💝 💟 💖";
   position: fixed;
   top: -120%;
   left: 0;
   width: 100%;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-evenly;
+  animation: floatHearts 22s linear infinite;
+  opacity: 0.6;
   pointer-events: none;
 }
 
-/* 💞 BIG SLOW HEARTS */
-
-body::before {
-  content: "💖   💗       💕    💞        💓   💘      💝";
-  font-size: 26px;
-  animation: heartsFall 18s linear infinite;
-  opacity: 0.75;
-}
-
-/* 💗 SMALL FAST HEARTS */
-
-body::after {
-  content: "💟     💕   💖      💗   💞       💓 💘";
-  font-size: 18px;
-  animation: heartsFall 12s linear infinite;
-  opacity: 0.6;
-}
-
-/* 💖 HEART FALL ANIMATION */
-
-@keyframes heartsFall {
+@keyframes floatHearts {
   0% {
     transform: translateY(0);
   }
   100% {
     transform: translateY(220vh);
-  }
-}
-
-/* ✨ SPARKLE EFFECT ✨ */
-
-.main-content::after {
-  content: "✨ ✦ ✧ ✦ ✨ ✧ ✦ ✨";
-  position: fixed;
-  top: -50%;
-  left: 0;
-  width: 100%;
-  font-size: 18px;
-  display: flex;
-  justify-content: space-around;
-  animation: sparkleFloat 14s linear infinite;
-  opacity: 0.7;
-  pointer-events: none;
-}
-
-@keyframes sparkleFloat {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(200vh);
   }
 }
