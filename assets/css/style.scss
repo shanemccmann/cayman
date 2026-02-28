@@ -36,8 +36,14 @@ body::before {
   0% { transform: translateY(0); }
   100% { transform: translateY(120vh); }
 }
+/* 💗 FIX WHITE BACKGROUND */
+
+body {
+  background-color: #fff0f5 !important;
+  color: #5a2a4d;
+}
+
 .main-content {
-  background-color: #fff0f5;
+  background-color: transparent !important;
   border-radius: 20px;
   padding: 2rem;
-}
