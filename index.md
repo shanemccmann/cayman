@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### this is not a random webpage
+Nooru... this is not a random webpage
 
 It’s a small pause in the internet  
 made only for you 🤍
